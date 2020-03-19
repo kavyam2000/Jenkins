@@ -16,3 +16,4 @@ sudo apt-get install jenkins -y
 
 # To use Jenkins: Open browser and type the http://<<Public Ip of the node on which you installed Jenkins>>:8080
 # Then follow the instruction displayed on the browser.
+kkmarkkkmark24
