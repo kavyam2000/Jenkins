@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#Clone Muni jenkins script
+
+sudo apt update -y
+git clone https://github.com/munireddy/setupInstructions.git
+cd setupInstructions/Jenkins
+sudo chmod 777 Jenkins/jenkins.sh
+bash ./jenkins.sh
+
